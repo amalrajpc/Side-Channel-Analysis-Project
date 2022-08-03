@@ -1,2 +1,2 @@
-# CPA_Amalraj
-CPA attack on AES algorithm,
+# Side Channel Analysis
+CPA analysis on AES algorithm & DOM analysis on AES algorithm
